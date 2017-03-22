@@ -1,0 +1,11 @@
+	#mainnav > ul > li > a.active,
+	#mainnav > ul > li > a:hover,
+	#mainnav > ul > li > a.active,
+	#mainnav > ul > li > a:hover {
+		color: #d65050;
+	}
+
+	#mainnav ul li ul:after,
+	#mainnav .submenu li:hover > a {
+		background-color: #d65050;
+	}
